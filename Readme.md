@@ -3,6 +3,7 @@
 The developer of the code is Ugur Ural. See also CodeBook.md
 
 # Information about initial data
+
 From the readme file provided with the initial data set:
 "The data used in this project is collected by Smartlab Non Linear Complex Systems Laboratory (www.smartlab.ws).
 
