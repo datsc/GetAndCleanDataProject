@@ -52,19 +52,18 @@ The keyword "Body" from the original data set is omitted as this is the
 default mode we calculate unless otherwise determined with the keyword
 "Gravity"
 
-Variable name           Read as
-----------------------------------------------------------------------------------
-TimeLinearMeanX     (Body component of) Time Domain Linear Acceleration in X(meanof)
-
-Time                Time domain
-Freq                Frequency domain
-Gravity             Gravitational Acceleration
-Linear              Linear component of the acceleration
-Angular             Angular velocity
-Jerk                Jerk movements
-Magnitude           Magnitude of the signal from XYZ components
-StDev               Standard deviation
-Angle               Average signal within a window sample
+Variable name      |     Read as
+-------------------|---------------------------------------------------------------
+TimeLinearMeanX    |    (Body component of) Time Domain Linear Acceleration in X(meanof)           |
+Time               |    Time domain
+Freq               |    Frequency domain
+Gravity            |    Gravitational component
+Linear             |    Linear component of the acceleration
+Angular            |    Angular velocity
+Jerk               |    Jerk movements
+Magnitude          |    Magnitude of the signal from XYZ components
+StDev              |    Standard deviation
+Angle              |    Average signal within a window sample
 
 
 
