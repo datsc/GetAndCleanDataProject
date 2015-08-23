@@ -114,4 +114,4 @@ tidyshort<-function(){
             return(tidyshort)
 }
 
-
+write.table(tidy,"tidy.txt",row.name=FALSE)
